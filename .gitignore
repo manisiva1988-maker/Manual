@@ -10,7 +10,6 @@ node_modules/
 screen/
 screenrecord/
 screenshot/
-allure-results/
 node_modules/
 *.webm
 *.mp4
