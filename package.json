@@ -10,6 +10,24 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.60.0",
-    "@types/node": "^25.9.1"
-  }
+    "@types/node": "^25.9.1",
+    "allure-commandline": "^2.43.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.10.2",
+    "playwright": "^1.60.0",
+    "playwright-core": "^1.60.0",
+    "undici-types": "^7.24.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manisiva1988-maker/Manual.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manisiva1988-maker/Manual/issues"
+  },
+  "homepage": "https://github.com/manisiva1988-maker/Manual#readme"
 }
