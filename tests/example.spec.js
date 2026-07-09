@@ -29,6 +29,6 @@ test('Browser',async()=>{
     });
     const page =await context.newPage()
     await page.goto('https://www.amazon.in/')
-    await page.waitForTimeout(6000)
-    await page.waitForTimeout(3000)
+    await page.waitForTimeout(4000)
+    await page.waitForTimeout(7000)
 })
