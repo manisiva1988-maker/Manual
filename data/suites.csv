@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4976","screen shot","firefox","2026-07-09","passed","2026-07-09","","screenshot.spec.js","",""
+"","1621","screen shot","webkit","2026-07-09","passed","2026-07-09","","screenshot.spec.js","",""
+"","1464","screen shot","chromium","2026-07-09","passed","2026-07-09","","screenshot.spec.js","",""
