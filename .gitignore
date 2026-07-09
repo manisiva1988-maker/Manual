@@ -6,3 +6,11 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+# Ignore large generated artifacts
+screen/
+screenrecord/
+screenshot/
+allure-results/
+node_modules/
+*.webm
+*.mp4
